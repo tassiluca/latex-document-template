@@ -1,5 +1,12 @@
 # Notes in random order
 
+- to set, for a document section, a different margin size:
+  ```tex
+    \newgeometry{margin=2cm}
+    ...
+    \restoregeometry
+  ```
+
 - if you want to set each margin 2cm without header space, what you need is just 
     ```tex
     \usepackage[margin=2cm,nohead]{geometry}.
