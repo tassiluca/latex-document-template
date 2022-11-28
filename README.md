@@ -1,5 +1,7 @@
 # Latex document template
 
+> ***Note***: still under construction 
+
 ## What?
 This is a Latex template document, which came about as a result of writing my bachelor's thesis.
 
