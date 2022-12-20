@@ -1,9 +1,7 @@
 # Latex document template
 
-> ***Note***: still under construction 
-
 ## What?
-This is a Latex template document, which came about as a result of writing my bachelor's thesis.
+This is a LaTeX template document, which came about as a result of writing my bachelor's thesis, with CI in place :).
 
 ## Why?
 Writing Latex documents using a WYSIWYM paradigm helps to focus on the content, devolving the document formatting to Latex and, thus, non-worrying about managing indexes, captions, image arrangement.
